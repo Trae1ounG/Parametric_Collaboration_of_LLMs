@@ -1,0 +1,564 @@
+{
+    "subject": {
+        "0": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q23505"
+        },
+        "1": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q3545001"
+        },
+        "2": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q4003185"
+        },
+        "3": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q7242478"
+        },
+        "4": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q120436023"
+        },
+        "5": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q24043569"
+        },
+        "6": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q3438922"
+        },
+        "7": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q5297058"
+        },
+        "8": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q7241241"
+        },
+        "9": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q113227667"
+        },
+        "10": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q8066924"
+        },
+        "11": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q96181216"
+        },
+        "12": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q5335019"
+        },
+        "13": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q5531983"
+        },
+        "14": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q5567565"
+        },
+        "15": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q7241251"
+        },
+        "16": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q9588"
+        },
+        "17": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q11812"
+        },
+        "18": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q11881"
+        },
+        "19": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q11891"
+        },
+        "20": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q12325"
+        },
+        "21": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q23"
+        },
+        "22": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q207"
+        },
+        "23": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q23685"
+        },
+        "24": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q33866"
+        },
+        "25": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q35678"
+        },
+        "26": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q11806"
+        },
+        "27": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q9960"
+        },
+        "28": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q11817"
+        },
+        "29": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q91"
+        },
+        "30": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q11815"
+        },
+        "31": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q11896"
+        },
+        "32": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q11816"
+        },
+        "33": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q11820"
+        },
+        "34": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q22686"
+        },
+        "35": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q34296"
+        },
+        "36": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q8612"
+        },
+        "37": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q9582"
+        },
+        "38": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q9696"
+        },
+        "39": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q9916"
+        },
+        "40": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q11613"
+        },
+        "41": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q35648"
+        },
+        "42": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q36023"
+        },
+        "43": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q35171"
+        },
+        "44": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q11869"
+        },
+        "45": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q9640"
+        },
+        "46": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q11813"
+        },
+        "47": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q12312"
+        },
+        "48": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q35236"
+        },
+        "49": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q35498"
+        },
+        "50": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q34597"
+        },
+        "51": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q35041"
+        },
+        "52": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q76"
+        },
+        "53": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q12306"
+        },
+        "54": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q34836"
+        },
+        "55": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q1124"
+        },
+        "56": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q8007"
+        },
+        "57": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q35286"
+        },
+        "58": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q47622"
+        },
+        "59": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q6279"
+        },
+        "60": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q107054330"
+        },
+        "61": {
+            "type": "uri",
+            "value": "http:\/\/www.wikidata.org\/entity\/Q35686"
+        }
+    },
+    "subjectLabel": {
+        "0": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "George H. W. Bush"
+        },
+        "1": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Gonzo the Mechanical Bastard"
+        },
+        "2": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Thor"
+        },
+        "3": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Prez"
+        },
+        "4": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Thomas Kirkman"
+        },
+        "5": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "The President"
+        },
+        "6": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Roger Durling"
+        },
+        "7": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Doom 2099"
+        },
+        "8": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "President Robert L. Booth"
+        },
+        "9": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Quentin Trembley"
+        },
+        "10": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Zartan"
+        },
+        "11": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Olivia Marsdin"
+        },
+        "12": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Ed Kealty"
+        },
+        "13": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "General Joseph Colton"
+        },
+        "14": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Glen Allen Walken"
+        },
+        "15": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "President Winthrop"
+        },
+        "16": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Richard Nixon"
+        },
+        "17": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Thomas Jefferson"
+        },
+        "18": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "John Tyler"
+        },
+        "19": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "James K. Polk"
+        },
+        "20": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "James Buchanan"
+        },
+        "21": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "George Washington"
+        },
+        "22": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "George W. Bush"
+        },
+        "23": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Jimmy Carter"
+        },
+        "24": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Theodore Roosevelt"
+        },
+        "25": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Benjamin Harrison"
+        },
+        "26": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "John Adams"
+        },
+        "27": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Ronald Reagan"
+        },
+        "28": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Andrew Jackson"
+        },
+        "29": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Abraham Lincoln"
+        },
+        "30": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "James Monroe"
+        },
+        "31": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Zachary Taylor"
+        },
+        "32": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "John Quincy Adams"
+        },
+        "33": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Martin Van Buren"
+        },
+        "34": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Donald Trump"
+        },
+        "35": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Woodrow Wilson"
+        },
+        "36": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Andrew Johnson"
+        },
+        "37": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Gerald Ford"
+        },
+        "38": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "John F. Kennedy"
+        },
+        "39": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Dwight D. Eisenhower"
+        },
+        "40": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Harry S. Truman"
+        },
+        "41": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "William Howard Taft"
+        },
+        "42": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Calvin Coolidge"
+        },
+        "43": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Grover Cleveland"
+        },
+        "44": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "William Henry Harrison"
+        },
+        "45": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Lyndon B. Johnson"
+        },
+        "46": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "James Madison"
+        },
+        "47": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Franklin Pierce"
+        },
+        "48": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Herbert Hoover"
+        },
+        "49": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Chester A. Arthur"
+        },
+        "50": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "James A. Garfield"
+        },
+        "51": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "William McKinley"
+        },
+        "52": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Barack Obama"
+        },
+        "53": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Millard Fillmore"
+        },
+        "54": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Ulysses S. Grant"
+        },
+        "55": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Bill Clinton"
+        },
+        "56": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Franklin Delano Roosevelt"
+        },
+        "57": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Warren G. Harding"
+        },
+        "58": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Mr. Garrison"
+        },
+        "59": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Joe Biden"
+        },
+        "60": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Phil Baker"
+        },
+        "61": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Rutherford B. Hayes"
+        }
+    }
+}
