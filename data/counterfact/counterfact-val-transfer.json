@@ -4,7 +4,7 @@
         "transfer_prompts": {
             "prompt": "BBC One, by",
             "ground_truth": "BBC"
-        },
+        },c
         "rephrase_prompts": {
             "prompt": "BBC One is my favorite product out of everything owned by",
             "ground_truth": "BBC"
